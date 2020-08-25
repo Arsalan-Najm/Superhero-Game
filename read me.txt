@@ -1,0 +1,19 @@
+Welcome to superhero game.
+
+If you want to play the game without any problem do the following:
+1: First of all download 7-zip.
+2: After installing 7-zip right click on the compressed folder then extract all files to the desktop.
+3: Click on the (starter.html) to run the game.
+4: You must have powerful browers like: chrome,firefox or microsoft edge.
+5: If the game won't start then you must update your browser. 
+6: Enjoy the game.
+
+NOTE: All game instructions are givin in the (starter.html) file.
+
+
+
+
+
+
+
+                                                                                                                                            THANK YOU
